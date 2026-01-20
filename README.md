@@ -1,5 +1,4 @@
-# sales-data-analysis
-Sales data analysis using Python and visualization
+
 # Sales Data Analysis using Python
 
 This project analyzes sales data to identify trends, top-performing products, and regional performance.
